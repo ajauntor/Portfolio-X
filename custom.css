@@ -4,3 +4,9 @@
 .bg-color-set{
     background-image: linear-gradient(to right top, #2d4266, #273a5d, #203355, #162745, #162a4d);
 }
+.card-style h4{
+    color: #e6f1ff;
+}
+.footer-color-set{
+    background-image: linear-gradient(to right top, #ccd6f6, #c3cded, #bac4e3, #b1bbda, #a8b2d1);
+}
