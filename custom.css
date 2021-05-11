@@ -10,3 +10,8 @@
 .footer-color-set{
     background-image: linear-gradient(to right top, #ccd6f6, #c3cded, #bac4e3, #b1bbda, #a8b2d1);
 }
+@media only screen and (max-width: 768px) {
+    .blog-pad{
+        margin-top: 20px;
+    }
+}
